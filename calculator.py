@@ -7,7 +7,7 @@ and easy to read so the focus stays on the Git / GitHub Actions workflow.
 
 
 def add(a, b):
-    return a + b
+    return a - b
 
 
 def subtract(a, b):
